@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Seversss\Seversss\obj\AAAAAAAAAA\Seversss.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Seversss\Seversss\obj\AAAAAAAAAA\Seversss.paciente.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Seversss\Seversss\obj\AAAAAAAAAA\Seversss.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Seversss\Seversss\obj\AAAAAAAAAA\Seversss.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Seversss\Seversss\bin\AAAAAAAAAA\Seversss.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Seversss\Seversss\obj\AAAAAAAAAA\Seversss.csprojResolveAssemblyReference.cache
