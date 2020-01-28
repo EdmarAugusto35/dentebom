@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\bin\Release\frmConsulta.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\bin\Release\frmConsulta.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\bin\Release\frmConsulta.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\obj\Release\server.FrmConsulta.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\obj\Release\frmConsulta.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\obj\Release\frmConsulta.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\obj\Release\frmConsulta.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\frmConsulta\obj\Release\frmConsulta.pdb
