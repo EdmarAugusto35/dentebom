@@ -1,0 +1,12 @@
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\bin\Release\server.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\bin\Release\server.exe
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\bin\Release\server.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Release\server.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Release\server.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Release\server.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Release\server.exe
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Release\server.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.FrPaciente.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.FrmConsulta.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.MenuDoForm.resources

@@ -1,0 +1,8 @@
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\bin\Debug\server.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Debug\server.exe
+c:\users\aluno\documents\visual studio 2015\Projects\server\server\obj\Debug\server.pdb
